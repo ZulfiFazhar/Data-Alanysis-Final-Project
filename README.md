@@ -3,8 +3,10 @@
 ## Bio
 - Nama    : Zulfi Fadilah Azhar
 - Email   : zulfi.fazhar12@gmail.com
-- Dashboard Preview :
-![image](assets/Web_capture.jpeg)
+- Streamlit Cloud App
+<a href="https://data-analysis-final-project-zulfi.streamlit.app/"> 
+<img src="assets/Web_capture_local.jpeg"> </a>
+</a>
 
 # Cara menjalankan Dashboard secara local
 ## Setup environment

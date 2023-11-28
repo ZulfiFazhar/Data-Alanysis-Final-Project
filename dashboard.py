@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 import folium
-from folium.plugins import HeatMap
+# from folium.plugins import HeatMap
 from wordcloud import WordCloud 
 
 def create_cust_state_sp (df):
